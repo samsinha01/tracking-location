@@ -1,5 +1,5 @@
 import React, { useState, useRef, useEffect } from 'react';
-import Details from '../components/Home/details';
+import Details from '../components/Home/Details';
 import RouteDetails from '../components/Home/RouteDetails';
 import MapSite from '../components/Home/MapSite';
 
