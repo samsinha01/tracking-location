@@ -14,7 +14,7 @@ const mapOptions = {
 };
 
 // Google Maps API Key (Replace with your actual key)
-const GOOGLE_MAPS_API_KEY = "AIzaSyC5lIvwH6BHmPN_SvACovdOf-t59kfP12c";
+const GOOGLE_MAPS_API_KEY = "enter_your_api_key";
 
 function MapSite() {
   const [routePath, setRoutePath] = useState([]); // Travel history
