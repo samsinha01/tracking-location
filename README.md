@@ -7,3 +7,4 @@ before run this project you need to run following command in your powershell/ter
 3. npm install @googlemaps/js-api-loader
 
 ## after installing this you need to adding google_map_api_key in src/components/Home/MapSite.jsx
+## add token in src/components/Home/MapSite.jsx and src/components/Path.jsx
